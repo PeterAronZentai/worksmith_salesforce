@@ -3,7 +3,6 @@
 Salesforce activities for [worksmith](http://npmjs.com/package/worksmith)
 
 This package contains the following activities/tasks:
-------------------------------------------------------
 
 name | description
 --- | ---
