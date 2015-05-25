@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/PeterAronZentai/worksmith_salesforce/issues"
   },
-  "homepage": "https://github.com/PeterAronZentai/worksmith_salesforce"
+  "homepage": "https://github.com/PeterAronZentai/worksmith_salesforce",
+  "dependencies": {
+    "jsforce": "^1.4.1"
+  }
 }
