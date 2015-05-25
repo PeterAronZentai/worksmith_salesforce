@@ -1,6 +1,6 @@
 {
   "name": "worksmith_salesforce",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Salesforce activites for worksmith",
   "main": "index.js",
   "scripts": {
