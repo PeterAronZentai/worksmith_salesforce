@@ -4,7 +4,7 @@ Salesforce activities for worksmith
 name | description
 --- | ---
 [connect](#connect-activity) | Logs you into Salesforce and create a connection object for later used in other SF activites
-[createEntity](#createEntity-activity) | Creates a Salesforce entity with the specified `type` and `fields`.
+[createEntity](#createentity-activity) | Creates a Salesforce entity with the specified `type` and `fields`.
 
 
 
