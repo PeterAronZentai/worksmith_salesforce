@@ -42,3 +42,16 @@ connection | connection object | usually the result of a `connect` actity
 entityType | string | the name of the entity type to create
 fields | object | the hash of the fields to create the entity with
 
+##### example
+
+```javascript
+{
+    task:"sf/createEntity",
+    connection:"@sfcn",
+    entityType:"Account",
+    fields: {
+        Name: "PeterZentai"
+    },
+    resultTo:"newAccount"
+}
+```
