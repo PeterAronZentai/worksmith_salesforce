@@ -6,10 +6,7 @@ name | description
 [connect](#connect-activity) | Logs you into Salesforce and create a connection object for later used in other SF activites
 [createEntity](#createentity-activity) | Creates a Salesforce entity with the specified `type` and `fields`.
 
-
-
-
-#### connect activity
+### connect activity
 Logs you into Salesforce and create a connection object for later used in other SF activites
 ##### params
 name | type | description
@@ -32,7 +29,7 @@ var wf = worksmith({task:"sequence", items : [{
 }])
 ```
 
-#### createEntity activity
+### createEntity activity
 Creates a Salesforce entity with the specified `type` and `fields`.
 
 ##### params
