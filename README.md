@@ -1,5 +1,5 @@
 # worksmith_salesforce
-Salesforce activities for worksmith
+Salesforce activities for [worksmith](npmjs.com/package/worksmith)
 
 name | description
 --- | ---
