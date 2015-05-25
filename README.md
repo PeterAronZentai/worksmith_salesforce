@@ -2,6 +2,9 @@
 
 Salesforce activities for [worksmith](http://npmjs.com/package/worksmith)
 
+This package contains the following activities/tasks:
+------------------------------------------------------
+
 name | description
 --- | ---
 [connect](#connect-activity) | Logs you into Salesforce and create a connection object for later used in other SF activites
