@@ -3,13 +3,11 @@ Salesforce activities for worksmith
 
 name | description
 --- | ---
-(connect)[#connect] | Logs you into Salesforce and create a connection object for later used in other SF activites
+[connect](#connect-activity) | Logs you into Salesforce and create a connection object for later used in other SF activites
 
 
-(connect)[#connect] | Logs you into Salesforce and create a connection object for later used in other SF activites
 
-
-#### <a name="connect">connect</a> activity
+#### connect activity
 Logs you into Salesforce and create a connection object for later used in other SF activites
 ##### params
 name | type | description
