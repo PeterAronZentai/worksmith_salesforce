@@ -1,0 +1,23 @@
+{
+  "name": "worksmith_salesforce",
+  "version": "0.0.1",
+  "description": "Salesforce activites for worksmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PeterAronZentai/worksmith_salesforce.git"
+  },
+  "keywords": [
+    "workflow",
+    "salesforce"
+  ],
+  "author": "Peter Zentai <peter.zentai@guidesmiths.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterAronZentai/worksmith_salesforce/issues"
+  },
+  "homepage": "https://github.com/PeterAronZentai/worksmith_salesforce"
+}
