@@ -1,6 +1,11 @@
 # worksmith_salesforce
 Salesforce activities for worksmith
 
+name | description
+--- | ---
+connect [connect activity] | Logs you into Salesforce and create a connection object for later used in other SF activites
+
+
 #### connect activity
 Logs you into Salesforce and create a connection object for later used in other SF activites
 ##### params
